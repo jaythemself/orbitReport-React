@@ -1,3 +1,5 @@
+import "./styling.css"
+
 export default function Banner() {
     //export this function/import in Apps.js. nest the banner component in the App() function.
     return (
